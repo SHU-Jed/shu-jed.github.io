@@ -1,6 +1,6 @@
 Using GitHub Jeklly Markdown to Write Blog
 
-Visit [HomePage](http://minixalpha.github.io)
+Visit [HomePage](http://shu-jed.github.io)
 
-[Introduction](https://github.com/minixalpha/minixalpha.github.io/blob/source/_posts/2014-02-15-github-jekyll-markdown.md)(chinese version):
+[Introduction](https://github.com/shu-jed/shujed.github.io/)(chinese version):
 An introduction about how to create a free blog using GitHub and Jeklly. 
